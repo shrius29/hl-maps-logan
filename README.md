@@ -1,2 +1,2 @@
-# hl-maps-logan
-half life maps that i made that i liek
+# Logan's Half-life maps
+ maps that are boxy and crap+
